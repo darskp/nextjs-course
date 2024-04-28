@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.active{
+@apply text-red-700
+}
